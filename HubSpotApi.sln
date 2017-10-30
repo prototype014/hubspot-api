@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.16
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HubSpotApi.Test", "HubSpotApi.Test\HubSpotApi.Test.csproj", "{D4FCC3FE-115D-41F2-B0CF-3132A6C9BBFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HubSpotApi", "HubSpotApi\HubSpotApi.csproj", "{A7CC9E49-EAF1-49FB-B4FE-16158902F044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApiHarness", "ApiHarness\ApiHarness.csproj", "{7F97371C-14F6-4111-8DB0-528AAF3B25A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D4FCC3FE-115D-41F2-B0CF-3132A6C9BBFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4FCC3FE-115D-41F2-B0CF-3132A6C9BBFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4FCC3FE-115D-41F2-B0CF-3132A6C9BBFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4FCC3FE-115D-41F2-B0CF-3132A6C9BBFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A7CC9E49-EAF1-49FB-B4FE-16158902F044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7CC9E49-EAF1-49FB-B4FE-16158902F044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7CC9E49-EAF1-49FB-B4FE-16158902F044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7CC9E49-EAF1-49FB-B4FE-16158902F044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F97371C-14F6-4111-8DB0-528AAF3B25A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F97371C-14F6-4111-8DB0-528AAF3B25A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F97371C-14F6-4111-8DB0-528AAF3B25A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F97371C-14F6-4111-8DB0-528AAF3B25A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
